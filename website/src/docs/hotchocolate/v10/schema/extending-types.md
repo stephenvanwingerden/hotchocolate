@@ -2,7 +2,7 @@
 title: Custom Base Classes
 ---
 
-Hot Chocolate is built with extensibility in mind and allows you to customize exiting type base classes and the descriptors.
+Hot Chocolate is built with extensibility in mind and allows you to customize existing type base classes and the descriptors.
 
 # Introduction
 
