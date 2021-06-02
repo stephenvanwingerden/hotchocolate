@@ -199,7 +199,7 @@ public class Person
     public string Name { get; set; }
 }
 
-[ExtendObjectType(Name = "Person")]
+[ExtendObjectType("Person")]
 public class PersonResolvers
 {
     public IEnumerable<Person> GetFriends(Person person, [Service]IPersonRepository repository) =>
